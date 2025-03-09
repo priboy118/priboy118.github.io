@@ -1,0 +1,7 @@
+favicon 
+
+<head>
+    ...
+    <link rel="icon" href="https://www.flaticon.com/free-icons/spider" title="spider icons">Spider icons created by Freepik - Flaticon" type="image/x-icon">
+    ...
+</head>
